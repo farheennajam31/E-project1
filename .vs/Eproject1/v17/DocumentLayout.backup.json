@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\Eproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A10913BA-6A13-4820-B0EE-6232ADC22093}|Eproject1\\Eproject1.csproj|c:\\users\\acer\\desktop\\eproject\\eproject1\\models\\academicrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10913BA-6A13-4820-B0EE-6232ADC22093}|Eproject1\\Eproject1.csproj|solutionrelative:eproject1\\models\\academicrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10913BA-6A13-4820-B0EE-6232ADC22093}|Eproject1\\Eproject1.csproj|c:\\users\\acer\\desktop\\eproject\\eproject1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A10913BA-6A13-4820-B0EE-6232ADC22093}|Eproject1\\Eproject1.csproj|solutionrelative:eproject1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10913BA-6A13-4820-B0EE-6232ADC22093}|Eproject1\\Eproject1.csproj|c:\\users\\acer\\desktop\\eproject\\eproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10913BA-6A13-4820-B0EE-6232ADC22093}|Eproject1\\Eproject1.csproj|solutionrelative:eproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10913BA-6A13-4820-B0EE-6232ADC22093}|Eproject1\\Eproject1.csproj|c:\\users\\acer\\desktop\\eproject\\eproject1\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10913BA-6A13-4820-B0EE-6232ADC22093}|Eproject1\\Eproject1.csproj|solutionrelative:eproject1\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Eproject\\Eproject1\\Program.cs",
+              "RelativeDocumentMoniker": "Eproject1\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Eproject\\Eproject1\\Program.cs",
+              "RelativeToolTip": "Eproject1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:29:03.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Eproject\\Eproject1\\appsettings.json",
+              "RelativeDocumentMoniker": "Eproject1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Eproject\\Eproject1\\appsettings.json",
+              "RelativeToolTip": "Eproject1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T10:29:09.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Eproject\\Eproject1\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Eproject1\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Eproject\\Eproject1\\Models\\Admin.cs",
+              "RelativeToolTip": "Eproject1\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:27:25.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AcademicRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Eproject\\Eproject1\\Models\\AcademicRecord.cs",
+              "RelativeDocumentMoniker": "Eproject1\\Models\\AcademicRecord.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Eproject\\Eproject1\\Models\\AcademicRecord.cs",
+              "RelativeToolTip": "Eproject1\\Models\\AcademicRecord.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:27:02.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
